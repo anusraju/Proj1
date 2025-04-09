@@ -6,7 +6,7 @@ public class Hw {
 	 
 		System.out.println("Hello,my name is John");
 		System.out.println("Hello,my name is maya");
-		System.out.println("Hello,my name is aya");
+		System.out.println("Hello,my name is tiya");
 		
 
 	}
